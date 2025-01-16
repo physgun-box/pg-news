@@ -1,5 +1,5 @@
 ---
-title: Обновление сайта
+title: Обновление сайта 2
 author: Foer
 image: media/darkmode_web-20250116205042257.webp
 date: Январь 2025
