@@ -5,8 +5,6 @@ image: media/darkmode_web-20250116205042257.webp
 date: Январь 2025
 tags:
   - Разработка
-changelog: {"features":["Добавлен тёмный режим","Добавлена кнопка смены темы"]}
-
 changelog:
   features:
     - Функция смены темы сайта
