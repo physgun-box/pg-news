@@ -1,7 +1,7 @@
 ---
 title: Возвращение новостного сайта!
 author: Toha3673
-image: media/svoi-darkrp-20250116205241555.webp
+image: media/14072026-news_is_back_image01.webp
 date: 14 Июля 2026
 tags:
   - Разработка
