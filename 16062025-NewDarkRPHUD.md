@@ -2,7 +2,7 @@
 title: Новый оптимизированный HUD для DarkRP
 author: Foer
 image: media/16062025-newdarkrphud_image05.webp
-date: Январь 2025
+date: 2025-01-01
 tags:
   - Разработка
   - DarkRP

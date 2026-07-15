@@ -2,7 +2,7 @@
 title: Состояние разработки SCP:SL
 author: Toha3673
 image: media/16062025-scpstateofthedev_image04.webp
-date: 15 Января 2025
+date: 2025-01-15
 tags:
   - Разработка
   - SCP:SL

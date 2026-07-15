@@ -2,7 +2,7 @@
 title: А что уже есть в нашем DarkRP?
 author: Foer
 image: media/16062025-ourdarkrp_image05.webp
-date: 16 Января 2025
+date: 2025-01-16
 tags:
 ---
 
